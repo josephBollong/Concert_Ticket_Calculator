@@ -1,0 +1,13 @@
+C:\Users\Hitori\AppData\Local\Temporary Projects\Concert Ticket Calculator\bin\Debug\Concert Ticket Calculator.exe.config
+C:\Users\Hitori\AppData\Local\Temporary Projects\Concert Ticket Calculator\bin\Debug\Concert Ticket Calculator.exe
+C:\Users\Hitori\AppData\Local\Temporary Projects\Concert Ticket Calculator\bin\Debug\Concert Ticket Calculator.pdb
+C:\Users\Hitori\AppData\Local\Temporary Projects\Concert Ticket Calculator\obj\Debug\Concert Ticket Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Hitori\AppData\Local\Temporary Projects\Concert Ticket Calculator\obj\Debug\Concert_Ticket_Calculator.GUI.resources
+C:\Users\Hitori\AppData\Local\Temporary Projects\Concert Ticket Calculator\obj\Debug\Concert_Ticket_Calculator.Properties.Resources.resources
+C:\Users\Hitori\AppData\Local\Temporary Projects\Concert Ticket Calculator\obj\Debug\Concert Ticket Calculator.csproj.GenerateResource.Cache
+C:\Users\Hitori\AppData\Local\Temporary Projects\Concert Ticket Calculator\obj\Debug\Concert Ticket Calculator.exe
+C:\Users\Hitori\AppData\Local\Temporary Projects\Concert Ticket Calculator\obj\Debug\Concert Ticket Calculator.pdb
+C:\Users\Hitori\AppData\Local\Temporary Projects\Concert Ticket Calculator\obj\Debug\Concert_Ticket_Calculator.utils.InputDialog.resources
+C:\Users\Hitori\Documents\Visual Studio 2015\Projects\Concert Ticket Calculator\Concert Ticket Calculator\bin\Debug\Concert Ticket Calculator.exe.config
+C:\Users\Hitori\Documents\Visual Studio 2015\Projects\Concert Ticket Calculator\Concert Ticket Calculator\obj\Debug\Concert Ticket Calculator.exe
+C:\Users\Hitori\Documents\Visual Studio 2015\Projects\Concert Ticket Calculator\Concert Ticket Calculator\obj\Debug\Concert Ticket Calculator.pdb
